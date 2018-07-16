@@ -1,6 +1,6 @@
 # site settings
 title: EaaS
-subtitle: engineer as a services
+subtitle: engineer as a service
 email: viktor.manuel.garcia@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/vgmartinez.github.io" # the subpath of your site, e.g. /blog
@@ -18,7 +18,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # contact form settings
-form_url: https://formspree.io/youremailaddress@gmail.com # endpoint URL to receive contact form submissions
+form_url: https://formspree.io/viktor.manuel.garcia@gmail.com # endpoint URL to receive contact form submissions
 form_email_name: _replyto # value of the "name" attribute in the "email" field
 
 # social settings
