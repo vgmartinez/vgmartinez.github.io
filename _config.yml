@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: EaaS
+subtitle: engineer as a services
+email: viktor.manuel.garcia@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Sant Antoni Mª Claret 309
+city: Barcelona
+state: Barcelona
+zip_code: 08027
+country: Spain
+phone: (34) 672104297
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
