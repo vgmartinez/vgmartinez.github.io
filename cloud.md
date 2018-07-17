@@ -1,7 +1,7 @@
 ---
-title: DevOps Culture
+title: Let's go to the Cloud
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Serverless applications don't require you to provision, scale, and manage any servers. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
