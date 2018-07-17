@@ -1,17 +1,16 @@
 # site settings
 title: EaaS
 subtitle: engineer as a service
-email: vgmartinez.cu@gmail.com
+email: viktor.manuel.garcia@gmail.com
 description: We are going to work closely with your team to build a scalable solution in the shortest possible time using the latest technologies in the market.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://eaas.solutions # the base hostname & protocol for your site
 author:
-street_address: Sant Antoni Mª Claret 309
+street_address:
 city: Barcelona
-state: Barcelona
-zip_code: 08027
+zip_code:
 country: Spain
-phone: (34) 672104297
+phone: (+34) 672104297
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
