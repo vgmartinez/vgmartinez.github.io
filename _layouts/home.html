@@ -23,32 +23,61 @@
             </div>
             <div id="content">
               <li style="text-align: center;list-style-type: none;";>
-                <img class="images" src="assets/images/aws.jpg" alt="AWS Certified">
-                <img class="images" src="assets/images/spark.png" alt="Spark Certified">
+                <img class="images" src="assets/images/aws-cert.jpg" alt="AWS Certified">
+                <img class="images" src="assets/images/spark-cert.png" alt="Spark Certified">
               </li>
             </div>
         </div>
     </section>
 
     <!-- Main -->
-    <div id="main">
-
+    <div id="mainwhite">
         <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Blog</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="all_posts.html" class="button next">Read Posts</a></li>
-                </ul>
+        <section id="main">
+          <div class="inner">
+              <header class="major">
+                  <h2>Our stack</h2>
+              </header>
             </div>
         </section>
-
+        <!-- Two -->
+        <section id="two">
+          <div id="content">
+            <li style="text-align: center;list-style-type: none;";>
+              <img class="images" src="assets/images/aws.png" alt="AWS">
+              <img class="images" src="assets/images/docker.png" alt="Docker">
+              <img class="images" src="assets/images/python.png" alt="Python">
+              <img class="images" src="assets/images/java.png" alt="Java">
+              <img class="images" src="assets/images/scala.png" alt="Scala">
+            </li>
+            <li style="text-align: center;list-style-type: none;";>
+              <img class="images" src="assets/images/spark.png" alt="Spark">
+              <img class="images" src="assets/images/airflow.png" alt="AirFlow">
+              <img class="images" src="assets/images/mlflow.png" alt="MLFlow">
+              <img class="images" src="assets/images/zeppelin.png" alt="Zeppelin">
+              <img class="images" src="assets/images/quicksight.png" alt="QuickSight">
+            </li>
+            <li style="text-align: center;list-style-type: none;";>
+              <img class="images" src="assets/images/grafana.png" alt="Grafana">
+              <img class="images" src="assets/images/elasticsearch.png" alt="ElasticSearch">
+            </li>
+          </div>
+        </section>
+    </div>
+    <div id="main">
+    <section id="two">
+        <div class="inner">
+            <header class="major">
+                <h2>Blog</h2>
+            </header>
+            <p>{{ content }}</p>
+            <ul class="actions">
+                <li><a href="all_posts.html" class="button next">Read Posts</a></li>
+            </ul>
+        </div>
+    </section>
     </div>
 
     {% include footer.html %}
