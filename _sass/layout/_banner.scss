@@ -24,6 +24,18 @@
 	    word-wrap:normal;
 	    white-space:nowrap;
 	}
+
+	#content-images {
+	    display: block;
+	    margin: 0px;
+	    position: relative;
+	    height: auto;
+	    max-width: auto;
+	    overflow-y: hidden;
+	    overflow-x:auto;
+	    word-wrap:normal;
+	    white-space:nowrap;
+	}
 /* Banner */
 
 	#banner {
