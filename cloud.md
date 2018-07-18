@@ -14,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>We can help you to make the transition to the cloud. Our team have the necessary experience to achieve this challenge with you. As a benefit you can reduce a high percent of you infrastructure bill in a short period of time.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Hybrid Architecture</h3>
@@ -31,7 +31,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Train your team</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>You employees need be trained to manage the cloud infrastructure using the best practices and taking the best decision, you need design a solution thinking in prices, security and scalability.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Help you manage the AWS Account</h3>
