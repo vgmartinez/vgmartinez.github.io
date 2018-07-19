@@ -1,7 +1,7 @@
 ---
 title: Big Data & AI
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Build highly scalable and secure Big Data applications fast. No hardware to procure, no infrastructure to maintain.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -14,24 +14,24 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>Build virtually any big data analytics application; support any workload regardless of volume, velocity, and variety of data. AWS provides everything you need to collect, store, process, analyze, and visualize big data on the cloud.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Design BigData Architecture</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Design Big Data Architecture</h3>
+		<p>Every company is different and with different way of consume their data, we can design and build a BigData Architecture that can manage huge volume of data in real time or batch process. We have many services that can help us to make everything possible but we need to combine them in the right way.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Design a DataLake</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>The most critical part in the Big Data ecosystem is how and where store the data. Before take a architectural decision is necessary know how the data is going be consume it. Some time using columnar format like Parquet is the best option because have a hight performace and is compatible with the most important tools in the Big Data ecosystem</p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>ETL Process</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Most of the time you have a lot of data in your on-premises infrastructure and you want to migrate this data to the cloud for make some analytic or for archive it. If you want migrate the data for consume later with some visualization tools is necessary a ETL process that depending of the complexity and the volume of your data the process can be very complex.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Analytics Layer</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>We can put in you hand a very powerfull tools for visualization</p>
 	</div>
 </div>
 
