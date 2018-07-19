@@ -1,7 +1,7 @@
 ---
 title: Serverless Architecture
 layout: landing
-description: Serverless applications don't require you to provision, scale, and manage any servers. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.
+description: A serverless architecture is a way to build and run applications and services without having to manage infrastructure.
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -14,24 +14,39 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>AWS provides a set of fully managed services that you can use to build and run serverless applications. Serverless applications don’t require provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queueing, and more. You also no longer need to worry about ensuring application fault tolerance and availability. Instead, AWS handles all of these capabilities for you. This allows you to focus on product innovation while enjoying faster time-to-market.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Design Architecture</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Serverless applications don't require you to provision, scale, and manage any servers. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.</p>
+		<p>We can design a Serverless Architecture for you using the best practices recommended by AWS.</p>
+		<h4>Serverless applications have four main benefits.</h4>
+			<ul style="padding-left:5%">
+				<li>Infrastructure cost reduction</li>
+				<li>No server management</li>
+				<li>Flexible scaling</li>
+				<li>Automated high availabilty</li>
+			</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>PoC</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>PoC & MVP</h3>
+		<p>If you are a big company that is willing to move to the cloud, we can develop a small PoC to validate your approach and deploy your idea in a cloud environment.</p>
+		<p>Maybe you are a small company that are looking reduce the time-to-market and have limited budget, we can work with you to make a MVP in shortest period of time using the serverless approach.</p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Guide the team</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>If you need implement or migrate your services to the cloud we can guide and teach the team to follow and develop of the best way and with the right services.</p>
+		<h4>Advantage of good design and implementation.</h4>
+		<ul style="padding-left:5%">
+			<li>Price optimization</li>
+			<li>Scalability and elasticity</li>
+			<li>Fault tolerance</li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Price evaluation and optimization</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>If you already are in the cloud we can work with you for try to reduce the price of your infrastructure using new services and best practices.</p>
 	</div>
 </div>
 

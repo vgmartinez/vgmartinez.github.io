@@ -31,7 +31,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Train your team</h3>
-		<p>You employees need be trained to manage the cloud infrastructure using the best practices and taking the best decision, you need design a solution thinking in prices, security and scalability.</p>
+		<p>You employees need to be trained to manage the cloud infrastructure using the best practices and taking the best decision, you need design a solution thinking in prices, security and scalability.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Help you manage the AWS Account</h3>
