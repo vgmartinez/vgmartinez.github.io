@@ -2,7 +2,7 @@
 title: Big Data & AI
 layout: landing
 description: 'Build highly scalable and secure Big Data applications fast. No hardware to procure, no infrastructure to maintain.'
-image: assets/images/pic07.jpg
+image: assets/images/pic10.jpg
 nav-menu: true
 ---
 

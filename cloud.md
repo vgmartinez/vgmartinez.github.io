@@ -2,7 +2,7 @@
 title: Let's go to the Cloud
 layout: landing
 description: We can build hybrid architectures that extend your on-premises infrastructure to the Cloud.
-image: assets/images/pic07.jpg
+image: assets/images/pic05.jpg
 nav-menu: true
 ---
 

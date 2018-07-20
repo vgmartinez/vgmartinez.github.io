@@ -2,7 +2,7 @@
 title: DevOps Culture
 layout: landing
 description: 'In some DevOps models, quality assurance and security teams may also become more tightly integrated with development and operations and throughout the application lifecycle.'
-image: assets/images/pic07.jpg
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 
