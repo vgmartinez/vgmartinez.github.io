@@ -5,7 +5,7 @@ email: viktor.manuel.garcia@gmail.com
 description: We are going to work closely with your team to build a scalable solution in the shortest possible time using the latest technologies in the market.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://eaas.solutions # the base hostname & protocol for your site
-author:
+author: EaaS Company
 street_address:
 city: Barcelona
 zip_code:
@@ -37,3 +37,6 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+plugins:
+  - jekyll-seo-tag
