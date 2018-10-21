@@ -14,11 +14,11 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-<p>Build virtually any big data analytics application; support any workload regardless of volume, velocity, and variety of data. AWS provides everything you need to collect, store, process, analyze, and visualize big data on the cloud.</p>
+<p>Build virtually any big data analytics application; support any workload regardless of volume, speed and variety of data. AWS provides everything you need to collect, store, process, analyze and visualize big data in the cloud.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Design Big Data Architecture</h3>
-		<p>Every company is different and with different way of consume their data, we can design and build a BigData Architecture that can manage huge volume of data in real time or batch process. We have many services that can help us to make everything possible but we need to combine them in the right way.</p>
+		<p>Every company is different and each of them consumes data in a different way, we can design and build a BigData Architecture that can manage huge volumes of data in real time or batch process. There are many services available that can help us to make everything possible but we need to combine them in just the right way for a perfect integration.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Design a DataLake</h3>
