@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, I'm an EaaS
+landing-title: Hi, We are EaaS
 description: null
 image: null
 author: null
