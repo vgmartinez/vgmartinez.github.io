@@ -1,4 +1,4 @@
-# EaaS - Engineer as a Service
+# EaaS - Engineering as a Service
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
