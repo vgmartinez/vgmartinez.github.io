@@ -23,14 +23,14 @@ form_email_name: _replyto # value of the "name" attribute in the "email" field
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/vgmartinez
+github_url:
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/victor-manuel-garcia-martinez-77706582/
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/g_vmanuel
+twitter_url: https://twitter.com/EaaSBarcelona
 
 # build settings
 markdown: kramdown
